@@ -1,0 +1,70 @@
+.navbar {
+    background-color: black;
+    color: rgb(235, 222, 204);
+    padding: 10px;
+
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: cursive;
+}
+
+.navbar a {
+    margin-right: 10px;
+}
+
+.float-right {
+    float: right;
+}
+
+#nav-one {
+    background-color: rgb(81, 80, 83);
+    border-radius: 5px;
+    padding: 2px 5px  ;
+}
+
+#nav-two {
+    background-color: rgb(81, 80, 83);
+    border-radius: 5px;
+    padding: 2px 5px  ;
+
+}
+   
+     .col-2{
+        width: 50%;
+     }
+     .col-4{
+        width: 25%;
+     }
+     .col-3{
+        width: 33.33%;
+     }
+
+     .row{
+        display: flex;
+        padding-left: 15px;
+        padding-right: 15px;
+        font-family: cursive;
+        
+    } 
+    .card{
+        border: 1px solid grey;
+        width: 25%;
+    padding-left: 50px;
+    margin: 10px;
+    }
+
+    .text-c{
+        text-align: center;
+      padding-right: 110px;
+    }
+
+ 
+   
+    .card a{
+        color: black;
+        
+    }
+    
